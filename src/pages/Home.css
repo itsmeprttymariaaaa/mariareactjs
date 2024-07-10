@@ -1,0 +1,139 @@
+.container1 {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+#info .card {
+  height: 500px;
+}
+
+.text text display-4 fw-bold
+ 
+/*  */
+
+#banner {
+    min-height: 100vh;
+    background: #20b2aa ;
+    background-size: cover;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+}
+
+#banner .container {
+  text-align: justify;
+}
+
+#banner .text {
+    color: #000000;
+    font-family: 'Times New Roman';
+    text-align: center;
+
+}
+
+#banner img {
+    border-radius: 60px;
+    width: 400px;
+   padding-top: 10px;
+
+  
+  }
+
+
+#banner .ok {
+    margin-top: 80px;
+}
+
+#banner .self {
+    font-size: 30px;
+    font-weight: 5;
+}
+
+  #banner .card {
+      background: transparent;
+    border: 0px;
+    font-family:'Segoe UI';
+}
+
+.btn {
+    transition: all 0.4s ease;
+    border-radius: 3;
+}
+
+#banner .card .btn-brand {
+    color: gray;
+    background: rgb(32, 69, 200);
+}
+
+#banner .card .btn-brand:hover {
+    color: #20b2aa;
+    background-color: rgb(70, 179, 252);
+    font-weight: 800;
+}
+
+#info .text {
+  font-family:'Times New Roman';
+}
+
+#info .container {
+  background-color: #ffffff;
+  margin: auto;
+  padding-bottom: 100px;
+  padding-top: 50px;
+}
+
+#info .container .card {
+  background-color: #008080;
+}
+
+#info .btn-brand {
+    color: #ffffff;
+    background: rgb(17, 21, 246);
+}
+
+#info .btn-brand:hover {
+    color: #ffffff;
+    background-color: rgb(189, 43, 43);
+    font-weight: 800;
+}
+
+.footer_section {
+    background-color: #20b2aa;
+    color: #20b2aa;
+    text-align: center;
+}
+
+.footer_section .footer-info {
+    text-align: center;
+}
+
+.footer_section .footer-info p {
+    color: #20b2aa;
+    margin: 0;
+}
+
+.footer_section .footer-info p a {
+    color: inherit;
+    text-decoration: none;
+}
+
+  /*  */
+
+#info {
+    background: #020b0b;
+    background-size: cover;
+}
+
+#info img {
+    width: 150px;
+    align-self: center;
+    margin-bottom: 10px;
+    border-radius:0;
+    filter: drop-shadow(15px 8px 2px rgba(0, 0, 0, 0.374));
+}
+
+
+
+

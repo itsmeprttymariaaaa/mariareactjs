@@ -1,0 +1,29 @@
+.navbar {
+  background: #008080;
+}
+
+  .navbar .navbar-nav .nav-item .nav-link:hover {
+    font-weight: bold;   
+    color: #36454f;
+  }
+  
+  .navbar .navbar-brand:hover {
+    color: #36454f;
+  }
+  
+  .navbar .navbar-brand {
+    color: #ffffff;
+  }
+  
+  .navbar .navbar-nav .nav-item .nav-link {
+    font-size: 18px;
+    text-decoration: none;
+    color: #ffffff;
+  }
+  
+  .navbar .navbar-nav .nav-item .nav-link.active {
+    background-color: rgb(7, 6, 6);
+    border-radius: 10px;
+    font-weight: bold;
+    color: #36454f;
+  }
